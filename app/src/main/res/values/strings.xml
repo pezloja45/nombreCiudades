@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">nombreCiudades</string>
+    <string name="str_Sevilla"> Sevilla</string>
+    <string name="str_Malaga"> Malga</string>
+    <string name="str_Cadiz"> Cadiz</string>
+    <string name="str_Jaen"> Jaen</string>
+    <string name="str_cordoba"> Cordoba</string>
+    <string name="str_Almeria"> Almeria</string>
+</resources>
